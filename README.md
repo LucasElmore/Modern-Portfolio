@@ -1,6 +1,7 @@
 ﻿# Modern-Portfolio
-Hello! This is the code for my personal portfolio. 
-It uses several public JS libraries and open-source code 
+Hello! This is the code for my personal portfolio. It 
+is built using React and Next.js and
+it uses several public JS libraries and open-source code 
 that I chose to implement within my portfolio for added
 functionality and better design. If you want to build and 
 run the code on your local machine, simply clone the code, 
